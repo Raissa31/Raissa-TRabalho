@@ -6,5 +6,5 @@
 }
 body{
     background-color: var(--amarelo);
-    margin: 0%; font-family: var(--fonte-projeto);
+    margin: 0; font-family: var(--fonte-projeto);
 }
